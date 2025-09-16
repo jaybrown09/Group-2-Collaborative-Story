@@ -1,0 +1,12 @@
+# Part 1
+
+# Marcus, aspiring author, is working through the night
+# Words appear on the screen by themselves
+# Marcus lives alone
+
+def part1():
+    print("Marcus rubs his eyes and sets down his fourth cup of coffee in his tired stupor")
+    print("Wait... I didn't write this. Where did this come from?")
+    print("A chill runs down his spine as he stares at the sentence on his screen 'I see you Marcus.'")
+
+part1()
